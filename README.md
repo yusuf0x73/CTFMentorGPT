@@ -1,4 +1,4 @@
-<h3 align="center">Free Palestine && Terrorist israel</h3> 
+<h3 align="center">Free Palestine</h3> 
 <div align="center">
   
 # CTFMentorGPT 💻 🚩
